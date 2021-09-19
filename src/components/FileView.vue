@@ -47,6 +47,10 @@ export default {
   @media (max-width: 1125px) {
     margin-right: 50px;
   }
+
+  @media (max-width: 680px) {
+    margin-right: 0;
+  }
 }
 .file__title {
   margin-top: 35px;
